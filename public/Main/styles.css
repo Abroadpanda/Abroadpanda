@@ -3903,6 +3903,9 @@ textarea.form-control-lg {
     padding: 0;
     overflow-y: visible;
   }
+  header.masthead{
+  background-size: 700px 600px;
+  }
 }
 @media (min-width: 768px) {
   .navbar-expand-md {
